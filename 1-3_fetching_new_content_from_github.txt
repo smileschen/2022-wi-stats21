@@ -8,7 +8,7 @@ prerequisites:
 
 Steps:
 1) navigate to your local repository 2022-wi-stats21
-2) git pull upstream/main
-		git pull is a combination of git fetch upstream/main and git merge upstream/main
+2) git fetch upstream
+3) git merge upstream/main
 3) git push
 
