@@ -1,0 +1,14 @@
+prerequisites:
+
+- https://youtu.be/ZQZnm2P9Mug
+- you have forked the class repository (smileschen/2022-wi-stats21) to your GitHub account
+- you have cloned the forked repository to your local computer 
+- you have added the class repository as a remote upstream repository
+
+
+Steps:
+1) navigate to your local repository 2022-wi-stats21
+2) git pull upstream/main
+		git pull is a combination of git fetch upstream/main and git merge upstream/main
+3) git push
+
